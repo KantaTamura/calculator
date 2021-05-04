@@ -14,7 +14,7 @@
             <StackPanel>
                 <Grid Height="175">
                     <StackPanel VerticalAlignment="Bottom">
-                        <TextBlock FontSize="20" FontFamily="Oswald" Text="30 + 47 + 32 -" TextAlignment="Right"
+                        <TextBlock FontSize="20" FontFamily="Oswald" Text="" TextAlignment="Right"
                                    Foreground="{StaticResource PrimaryHueLightForegroundBrush}" Margin="20 0"
                                    x:Name="formula"/>
                         <TextBlock FontSize="50" FontFamily="Oswald" Text="13" TextAlignment="Right"
